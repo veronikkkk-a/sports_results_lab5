@@ -1,0 +1,37 @@
+[
+{
+  "athlete": "Olena Koval",
+  "sport": "running",
+  "result": 12.4,
+  "category": "senior",
+  "timestamp": "2026-10-20T09:15:00"
+},
+{
+  "athlete": "Danylo Hrytsenko",
+  "sport": "running",
+  "result": 13.0,
+  "category": "senior",
+  "timestamp": "2026-10-20T09:30:00"
+},
+{
+  "athlete": "Maksym Shevchenko",
+  "sport": "swimming",
+  "result": 58.2,
+  "category": "junior",
+  "timestamp": "2026-10-20T10:00:00"
+},
+{
+  "athlete": "Iryna Bondar",
+  "sport": "cycling",
+  "result": 42.8,
+  "category": "masters",
+  "timestamp": "2026-10-20T11:30:00"
+},
+{
+  "athlete": "Petro Novak",
+  "sport": "running",
+  "result": 11.9,
+  "category": "senior",
+  "timestamp": "2026-10-21T09:00:00"
+}
+]

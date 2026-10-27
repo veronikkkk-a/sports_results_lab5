@@ -1,0 +1,4 @@
+line_number,field,error
+6,result,Result must be numeric
+7,athlete,Athlete name is required
+8,category,Category is not allowed

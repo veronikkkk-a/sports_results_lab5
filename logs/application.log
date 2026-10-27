@@ -1,0 +1,70 @@
+2026-10-27 18:40:58,807 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:40:58,833 | WARNING | sports_streaming.services | Invalid record at line 5 (result): Result must be numeric
+2026-10-27 18:40:58,833 | WARNING | sports_streaming.services | Invalid record at line 6 (athlete): Athlete name is required
+2026-10-27 18:40:58,833 | WARNING | sports_streaming.services | Invalid record at line 7 (category): Category is not allowed
+2026-10-27 18:40:58,845 | INFO | sports_streaming.services | Sports results import/export completed in 0.0380 s
+2026-10-27 18:40:58,846 | INFO | __main__ | Total=7 valid=4 invalid=3 exported=4
+2026-10-27 18:40:58,855 | INFO | __main__ | Average result=31.325000000000003 best numeric result=11.9
+2026-10-27 18:42:43,734 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:42:43,745 | WARNING | sports_streaming.services | Invalid record at line 5 (result): Result must be numeric
+2026-10-27 18:42:43,745 | WARNING | sports_streaming.services | Invalid record at line 6 (athlete): Athlete name is required
+2026-10-27 18:42:43,745 | WARNING | sports_streaming.services | Invalid record at line 7 (category): Category is not allowed
+2026-10-27 18:42:43,751 | INFO | sports_streaming.services | Sports results import/export completed in 0.0171 s
+2026-10-27 18:42:43,751 | INFO | __main__ | Total=7 valid=4 invalid=3 exported=4
+2026-10-27 18:42:43,751 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 18:42:43,751 | INFO | __main__ | running: count=2 average=12.1500 best numeric record=Petro Novak (11.9000)
+2026-10-27 18:42:43,751 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 18:46:38,261 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:46:38,271 | WARNING | sports_streaming.services | Invalid record at line 5 (result): Result must be numeric
+2026-10-27 18:46:38,271 | WARNING | sports_streaming.services | Invalid record at line 6 (athlete): Athlete name is required
+2026-10-27 18:46:38,271 | WARNING | sports_streaming.services | Invalid record at line 7 (category): Category is not allowed
+2026-10-27 18:46:38,278 | INFO | sports_streaming.services | Sports results import/export completed in 0.0166 s
+2026-10-27 18:46:38,278 | INFO | __main__ | Total=7 valid=4 invalid=3 exported=4
+2026-10-27 18:46:38,278 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 18:46:38,278 | INFO | __main__ | running: count=2 average=12.1500 best numeric record=Petro Novak (11.9000)
+2026-10-27 18:46:38,278 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 18:47:10,588 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:47:10,598 | WARNING | sports_streaming.services | Invalid record at line 5 (result): Result must be numeric
+2026-10-27 18:47:10,598 | WARNING | sports_streaming.services | Invalid record at line 6 (athlete): Athlete name is required
+2026-10-27 18:47:10,598 | WARNING | sports_streaming.services | Invalid record at line 7 (category): Category is not allowed
+2026-10-27 18:47:10,604 | INFO | sports_streaming.services | Sports results import/export completed in 0.0162 s
+2026-10-27 18:47:10,604 | INFO | __main__ | Total=7 valid=4 invalid=3 exported=4
+2026-10-27 18:47:10,604 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 18:47:10,604 | INFO | __main__ | running: count=2 average=12.1500 best numeric record=Petro Novak (11.9000)
+2026-10-27 18:47:10,604 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 18:47:18,108 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:47:18,120 | WARNING | sports_streaming.services | Invalid record at line 5 (result): Result must be numeric
+2026-10-27 18:47:18,121 | WARNING | sports_streaming.services | Invalid record at line 6 (athlete): Athlete name is required
+2026-10-27 18:47:18,121 | WARNING | sports_streaming.services | Invalid record at line 7 (category): Category is not allowed
+2026-10-27 18:47:18,128 | INFO | sports_streaming.services | Sports results import/export completed in 0.0195 s
+2026-10-27 18:47:18,128 | INFO | __main__ | Total=7 valid=4 invalid=3 exported=4
+2026-10-27 18:47:18,129 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 18:47:18,129 | INFO | __main__ | running: count=2 average=12.1500 best numeric record=Petro Novak (11.9000)
+2026-10-27 18:47:18,129 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 18:47:35,082 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 18:47:35,099 | WARNING | sports_streaming.services | Invalid record at line 6 (result): Result must be numeric
+2026-10-27 18:47:35,100 | WARNING | sports_streaming.services | Invalid record at line 7 (athlete): Athlete name is required
+2026-10-27 18:47:35,100 | WARNING | sports_streaming.services | Invalid record at line 8 (category): Category is not allowed
+2026-10-27 18:47:35,107 | INFO | sports_streaming.services | Sports results import/export completed in 0.0256 s
+2026-10-27 18:47:35,108 | INFO | __main__ | Total=8 valid=5 invalid=3 exported=5
+2026-10-27 18:47:35,108 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 18:47:35,108 | INFO | __main__ | running: count=3 average=12.4333 best numeric record=Petro Novak (11.9000)
+2026-10-27 18:47:35,108 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 19:07:54,637 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 19:07:54,648 | WARNING | sports_streaming.services | Invalid record at line 6 (result): Result must be numeric
+2026-10-27 19:07:54,648 | WARNING | sports_streaming.services | Invalid record at line 7 (athlete): Athlete name is required
+2026-10-27 19:07:54,649 | WARNING | sports_streaming.services | Invalid record at line 8 (category): Category is not allowed
+2026-10-27 19:07:54,655 | INFO | sports_streaming.services | Sports results import/export completed in 0.0173 s
+2026-10-27 19:07:54,655 | INFO | __main__ | Total=8 valid=5 invalid=3 exported=5
+2026-10-27 19:07:54,656 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 19:07:54,656 | INFO | __main__ | running: count=3 average=12.4333 best numeric record=Petro Novak (11.9000)
+2026-10-27 19:07:54,657 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)
+2026-10-27 19:08:26,399 | INFO | sports_streaming.services | Sports results import/export started
+2026-10-27 19:08:26,405 | WARNING | sports_streaming.services | Invalid record at line 6 (result): Result must be numeric
+2026-10-27 19:08:26,405 | WARNING | sports_streaming.services | Invalid record at line 7 (athlete): Athlete name is required
+2026-10-27 19:08:26,405 | WARNING | sports_streaming.services | Invalid record at line 8 (category): Category is not allowed
+2026-10-27 19:08:26,410 | INFO | sports_streaming.services | Sports results import/export completed in 0.0107 s
+2026-10-27 19:08:26,411 | INFO | __main__ | Total=8 valid=5 invalid=3 exported=5
+2026-10-27 19:08:26,411 | INFO | __main__ | cycling: count=1 average=42.8000 best numeric record=Iryna Bondar (42.8000)
+2026-10-27 19:08:26,411 | INFO | __main__ | running: count=3 average=12.4333 best numeric record=Petro Novak (11.9000)
+2026-10-27 19:08:26,411 | INFO | __main__ | swimming: count=1 average=58.2000 best numeric record=Maksym Shevchenko (58.2000)

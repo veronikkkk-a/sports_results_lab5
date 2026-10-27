@@ -1,0 +1,10 @@
+athlete,sport,result,category,timestamp
+Olena Koval,running,12.4,senior,2026-10-20T09:15:00
+Danylo Hrytsenko,running,13.0,senior,2026-10-20T09:30:00
+Maksym Shevchenko,swimming,58.2,junior,2026-10-20T10:00:00
+Iryna Bondar,cycling,42.8,masters,2026-10-20T11:30:00
+Andrii Lytvyn,running,wrong,senior,2026-10-20T12:00:00
+,swimming,62.1,junior,2026-10-20T12:30:00
+Sofiia Melnyk,swimming,60.5,open,2026-10-20T13:00:00
+Petro Novak,running,11.9,senior,2026-10-21T09:00:00
+

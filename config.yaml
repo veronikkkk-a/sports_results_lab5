@@ -1,0 +1,17 @@
+input:
+  path: data/sports_results.csv
+output:
+  path: output/sports_results.json
+  error_path: output/invalid_records.csv
+processing:
+  mode: tolerant
+  allowed_sports: [running, swimming, cycling]
+  allowed_categories: [junior, senior, masters]
+  result_rules:
+    running: {min: 0, max: 100000}
+    swimming: {min: 0, max: 100000}
+    cycling: {min: 0, max: 100000}
+  timestamp_format: "%Y-%m-%dT%H:%M:%S"
+logging:
+  level: INFO
+  path: logs/application.log
